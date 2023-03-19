@@ -1,0 +1,94 @@
+/* SELETTORE {
+    proprietà: valore;
+    proprietà: valore;
+} */
+
+#riquadro{
+    background-color: rgba(0, 0, 0, 0.466);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    height: 850px;
+    width: 63%;
+    border-radius: 15px;
+}
+
+#logo{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 50px;
+    
+}
+
+h1{
+    color:rgb(0, 221, 0);
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    height: 5px;
+    font-size: 30px;
+    line-height: 0.1;
+}
+
+.pulsanti{
+    text-align: center;
+    margin: auto;
+    background-color: rgb(0, 221, 0);
+    width: 82%;
+    height: 45px;
+    line-height: 38px;
+}
+
+div{
+    color: white;
+    text-align: left;
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    margin-left: 105px;
+    font-weight: bold;
+    line-height: 30px;
+    
+    
+}
+
+.via{
+    color: white;
+    text-align: left;
+    margin-left: 0.1px;
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: normal;
+    line-height: 1.5;
+}
+
+p{
+    border-radius: 5px;
+    color: transparent;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#giallo{
+    background-color: rgb(250, 187, 93);
+    height: 35px;
+    max-width: 320px;
+    margin-left: 105px;
+    margin-top: 5px;
+}
+
+#verde{
+    background-color: rgb(43, 211, 43);
+    height: 35px;
+    max-width: 600px;
+    margin-left: 105px;
+    margin-top: 5px;
+}
+
+#rosso{
+    background-color: rgb(218, 67, 67);
+    height: 35px;
+    max-width: 175px;
+    margin-left: 105px;
+    margin-top: 5px;
+}
